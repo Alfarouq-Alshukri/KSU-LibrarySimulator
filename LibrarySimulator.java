@@ -1,5 +1,20 @@
 package librarySimulator;
+/*      Group Members:
 
+        1. Bassam Al-ghamdi ID: 446106146
+
+
+
+        2. Saleh Al-saiqer ID: 446103413
+
+
+
+        3. Alfarouq Al-shukri ID: 446109472
+
+
+
+
+        */
 import java.util.Scanner;
 
 public class LibrarySimulator {
